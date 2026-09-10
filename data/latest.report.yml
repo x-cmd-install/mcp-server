@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T03:53:18Z
+  collectedAt: 2026-09-10T15:54:07Z
 timeline:
   created: 2025-03-07
   lastCommit: 2025-06-05
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 2287
+  star: 2288
   watcher: 18
-  fork: 345
+  fork: 347
   release: 0
   contributor: 4
   pullRequest: 15
@@ -83,7 +83,7 @@ total:
   commit: 22
 ---
 path: /home/runner/.x-repo/github.com/financial-datasets/mcp-server
-collectedAt: 2026-09-10T03:53:19Z
+collectedAt: 2026-09-10T15:54:09Z
 loc:
   Python:
     code: 241
