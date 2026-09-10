@@ -20,7 +20,7 @@ x install mcp-server
 
 ## Popularity
 
-- **Stars**: 2,287 · **Forks**: 345 · **Open issues**: 11 · **Contributors**: 4
+- **Stars**: 2,288 · **Forks**: 347 · **Open issues**: 11 · **Contributors**: 4
 
 ## Totals (cumulative)
 
@@ -49,8 +49,8 @@ Total: **252** lines of code across **3** files in the top 5 languages.
 Install metadata for mcp-server lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mcp-server` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/mcp-server.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/mcp-server.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:53:24Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:54:13Z._

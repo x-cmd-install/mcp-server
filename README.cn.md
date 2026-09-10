@@ -4,7 +4,7 @@
 
 An MCP server for interacting with the Financial Datasets stock market API.
 
-![mcp-server](https://repo.x-cmd.io/mcp-server.svg)
+![mcp-server](https://repo.x-cmd.io/mcp-server.svg?lang=zh)
 
 ## 安装
 
@@ -20,7 +20,7 @@ x install mcp-server
 
 ## 流行度
 
-- **Star**: 2,287 · **Fork**: 345 · **开放 issue**: 11 · **贡献者**: 4
+- **Star**: 2,288 · **Fork**: 347 · **开放 issue**: 11 · **贡献者**: 4
 
 ## 累计统计
 
@@ -53,4 +53,4 @@ mcp-server 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:53:24Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:54:14Z._
