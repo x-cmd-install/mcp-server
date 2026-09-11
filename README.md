@@ -30,7 +30,7 @@ Total: **252** lines of code across **3** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,288 · **Forks**: 347 · **Open issues**: 11 · **Contributors**: 4
+- **Stars**: 2,289 · **Forks**: 347 · **Open issues**: 11 · **Contributors**: 4
 
 ## Totals (cumulative)
 
@@ -56,4 +56,4 @@ Install metadata for mcp-server lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T03:49:27Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:43:59Z._
